@@ -24,7 +24,7 @@
 
 // Qno 6. Make use of alerts in your new/existing HTML & CSS project.
 
-alert("Stay Home Stay Safe")
+// alert("Stay Home Stay Safe")
 
 
 
